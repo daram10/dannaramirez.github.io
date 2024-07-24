@@ -16,8 +16,8 @@ nav:
     link: "/"
   - name: "Sobre mí"
     link: "/sobre-mi/"
-  - name: "Proyectos"
-    link: "/proyectos/"
-  - name: "Contacto"
-    link: "/contacto/"
+  #- name: "Proyectos"
+  #  link: "/proyectos/"
+  #- name: "Contacto"
+  #  link: "/contacto/"
 
