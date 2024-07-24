@@ -1,2 +1,6 @@
-# dannaramirez.github.io
-Danna Ramirez Resume and Portfolio
+# Data Scientist 
+
+## Education
+Unal
+
+## Work
