@@ -1,0 +1,16 @@
+---
+layout: home
+---
+
+<div class="home">
+  <h1>Bienvenido a mi portafolio</h1>
+  <p>{{ site.description }}</p>
+
+  <nav>
+    <ul>
+      {% for item in site.nav %}
+        <li><a href="{{ item.link }}">{{ item.name }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
+</div>
