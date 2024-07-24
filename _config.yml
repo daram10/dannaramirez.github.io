@@ -1,6 +1,23 @@
-title: Danna Ramirez
-#logo: /assets/img/headshot_circle.png
-description: text below image
-show_downloads: true
-theme: jekyll-theme-minimal
+title: "Mi Portafolio"
+email: "tu-email@example.com"
+description: "Desarrollador de software y diseñador web"
+baseurl: "" # el subpath de tu sitio, e.g. /blog/
+url: "https://username.github.io" # el hostname base y protocolo para tu sitio
+twitter_username: "tu_usuario"
+github_username: "tu_usuario"
+
+# Configuración de construcción
+markdown: kramdown
+theme: minima
+
+# Navegación
+nav:
+  - name: "Inicio"
+    link: "/"
+  - name: "Sobre mí"
+    link: "/sobre-mi/"
+  - name: "Proyectos"
+    link: "/proyectos/"
+  - name: "Contacto"
+    link: "/contacto/"
 
